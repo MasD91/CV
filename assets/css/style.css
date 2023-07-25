@@ -231,6 +231,14 @@ footer {
     margin-bottom: 15px;
 }
 
+
+/*-------------2 reasons*/
+
+.two-reasons-icon {
+    font-size: 26px;
+    color: #FF6F61;
+}
+
 /*-------------Personal info*/
 
 .personal-info-item {
